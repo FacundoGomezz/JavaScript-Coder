@@ -1,0 +1,28 @@
+.inicio {
+    background-image: url("./imagenes/robot.png");
+    background-repeat: none;
+    background-size: cover;
+}
+
+a {
+    text-decoration:none;
+}
+
+.primero {
+    background-color: rgb(54, 54, 54);
+    background-size: 100% 100%;
+    padding: 5px;
+    height: 150px;
+    border: solid 5px #000000;
+    color: white;
+    text-align: center;
+}
+
+
+.segundo {
+    color:rgb(113, 255, 246);
+    background-color: rgb(127, 70, 0);
+    border: solid 5px #000000;
+    padding: 2rem;
+    text-align: center;
+}
